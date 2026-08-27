@@ -1,4 +1,6 @@
-# AULA-6---Data-Analytics-e-Storytelling-com-Power-BI---Desafio-1
+Data-Analytics-e-Storytelling-com-Power-BI
+
+Desafio 1
 
 Neste desafio foram abordados e atendidos os seguintes pontos abaixo descritos, são eles:
 
